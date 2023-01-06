@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>Actividad para normal.</title>
+<meta name="description" content="Actividad para normal fue una de las obras más aviciosas , que hizo el creador de las tres eses , tambien conocido como 3. Esta trata de una historia separada en 3 temporadas y en diferentes capitulos . Donde rick un oficial de policia investigara la desaparicion de dos jovenes caza fantasmas , ultimavez vistos en el antiguo asilo abandonado. Hay descubrira la maldicion que el edificio posee y su historia ademas de que les paso a los chicos. Despues de eso como venganza la sombra o como asi se hace llamar cobrara venganza matando a casitodo el cuerpo de policia y crear el armagedon destrozando la ciudad pero donde alfinal Rick lo pararia."/>
+
+</head>
+<body>
+<h1>Actividad para normal la historia.</h1>
+<p>Actividad para normal fue una de las obras más aviciosas , que hizo el creador de las tres eses , tambien conocido como 3. Esta trata de una historia separada en 3 temporadas y en diferentes capitulos . Donde rick un oficial de policia investigara la desaparicion de dos jovenes caza fantasmas , ultimavez vistos en el antiguo asilo abandonado. Hay descubrira la maldicion que el edificio posee y su historia ademas de que les paso a los chicos. Despues de eso como venganza la sombra o como asi se hace llamar cobrara venganza matando a casitodo el cuerpo de policia y crear el armagedon destrozando la ciudad pero donde alfinal Rick lo pararia.</p>
+
+
+
+
+
+</body>
+
+
+</html>
