@@ -27,4 +27,25 @@ header {
 } 
 body {
     background-color: antiquewhite;
+} 
+.combustible {
+    position: relative; 
+    top: 0px; 
+    bottom: 700px; 
+    right:0px ; 
+    left: 1100px;
+} 
+.diesel {
+    position: relative; 
+    top: 0px; 
+    bottom: 1000px; ; 
+    right: 0px; 
+    left: 1100px; ; 
+} 
+.fibra {
+    position: relative; 
+    top: 0px; 
+    bottom: 1300px; ; 
+    right:0px ; 
+    left: 1100px; 
 }
