@@ -15,7 +15,12 @@ header {
 } 
 .minutmen {
     font-size: 20px;
+    width: 800px;
+    height: 960px; 
+    margin: 10px; 
+    padding: 20px;
 } 
+
 .Cronologiaminutmen {
     font-size: 20px;
 } 
