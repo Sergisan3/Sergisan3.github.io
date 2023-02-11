@@ -19,8 +19,12 @@ header {
 .Cronologiaminutmen {
     font-size: 20px;
 } 
-.Fotominutmen {
+.Fotominutmen { 
+    position: relative;
     left: 500px; 
+    bottom: 00px; 
+    top: 00px; 
+    right: 00px;
 } 
 .Hermandaddelacerofallout4 {
     font-size: 20px; 
