@@ -2,37 +2,51 @@ body {
     background-color: paleturquoise
 } 
 h1 {
-    font-size: 50px;
+    font-size: 50px; 
+    margin: 70px;
 } 
 h2 {
-    font-size: 40px;
+    font-size: 40px; 
+    margin: 70px;
 } 
 header {
-    font-size: 20px;
+    font-size: 20px; 
+    width: 1100px; 
+    height: 200px; 
+    margin: 70px;
 } 
 .Historiafallout4 {
-    font-size: 20px;
+    font-size: 20px; 
+    width: 1100px; 
+    height: 300px; 
+    margin: 70px; 
 } 
 .minutmen {
     font-size: 20px;
-    width: 800px;
-    height: 960px; 
-    margin: 10px; 
-    padding: 20px;
+    width: 1100px;
+    height: 460px; 
+    margin: 70px;  
 } 
 
 .Cronologiaminutmen {
     font-size: 20px;
+    width: 1100px; 
+    height: 360px; 
+    margin: 70px;
+
 } 
 .Fotominutmen { 
     position: relative;
-    left: 500px; 
+    left: 400px; 
     bottom: 00px; 
     top: 00px; 
     right: 00px;
 } 
 .Hermandaddelacerofallout4 {
     font-size: 20px; 
+    width: 1100px; 
+    height: 1100px; 
+    margin: 70px;
 } 
 .Ferrocarril {
     font-size: 20px;
@@ -58,3 +72,6 @@ header {
 .Enclave {
     font-size: 20px;
 } 
+.Hermandad {
+    left: 600px;
+}
