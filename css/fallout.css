@@ -37,7 +37,7 @@ header {
 } 
 .Fotominutmen { 
     position: relative;
-    left: 400px; 
+    left: 250px; 
     bottom: 00px; 
     top: 00px; 
     right: 00px;
@@ -45,33 +45,66 @@ header {
 .Hermandaddelacerofallout4 {
     font-size: 20px; 
     width: 1100px; 
-    height: 1100px; 
+    height: 1150px; 
     margin: 70px;
 } 
 .Ferrocarril {
-    font-size: 20px;
+    font-size: 20px; 
+    width: 1100px; 
+    height: 700px; 
+    margin: 70px;
 } 
 .Elinstituto {
-    font-size: 20px;
+    font-size: 20px; 
+    width: 1100px; 
+    height: 1000px;  
+    margin: 70px;
 } 
 .fallout76 {
-    font-size: 20px;
+    font-size: 20px;  
+    width: 1100px; 
+    height: 200px; 
+    margin: 70px;
 } 
 .protectores {
-    font-size: 20px;
+    font-size: 20px; 
+    width: 1100px; 
+    height: 700px; 
+    margin: 70px;
 } 
-.Saqueadores {
-    font-size: 20px;
+.Saqueadores { 
+    font-size: 20px; 
+    width: 1100px; 
+    height: 300px;  
+    margin: 70px;
 } 
 .Estadoslibres {
-    font-size: 20px;
+    font-size: 20px; 
+    width: 1100px; 
+    height: 400px; 
+    margin: 70px;
 } 
 .Hermandadelacerofallout76 {
-    font-size: 20px;
+    font-size: 20px; 
+    width: 1100px; 
+    height: 500px; 
+    margin: 70px ;
 } 
 .Enclave {
-    font-size: 20px;
+    font-size: 20px; 
+    width: 1100px; 
+    height: 500px; 
+    margin: 70px;
 } 
 .Hermandad {
-    left: 600px;
+    left: 400px; 
+    position: relative;
+} 
+.logoferrocarril { 
+ left: 400px; 
+ position: relative;
+} 
+.Fotoenclave {
+    position: relative; 
+    left: 400px;
 }
