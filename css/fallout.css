@@ -119,3 +119,15 @@ h3 {
     margin: 70px; 
     font-size: 30px;
 } 
+
+.Newvegas {
+    font-size: 20px; 
+    margin: 70px; 
+    width: 1100px; 
+    height: 100px;
+} 
+
+.Fotornc {
+    position: relative; 
+    left: 70px;
+}
