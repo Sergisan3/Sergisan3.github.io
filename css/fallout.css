@@ -12,7 +12,7 @@ h2 {
 header {
     font-size: 20px; 
     width: 1100px; 
-    height: 1000px; 
+    height: 1200px; 
     margin: 70px;
 } 
 .Historiafallout4 {
@@ -141,4 +141,28 @@ h3 {
 
 .Fotolegión {
     left: 70px;
+} 
+
+.menu {
+    width: 3000px; 
+    background:#1E90FF; 
+    list-style: none; 
+    margin: 0px;
+    padding: 0px;
+} 
+
+.menu li {
+    display: inline-block;
+} 
+
+.menu li a {
+    padding: 10px 20px; 
+    display: inline-block; 
+    color: #fff; 
+} 
+
+.menu li a:hover {
+    background: #00BFFF; 
+    color: #000;
+
 }
