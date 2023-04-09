@@ -20,4 +20,58 @@
     background: #00BFFF; 
     color: #000;
 
+} 
+
+.Historia {
+font-size: 20px; 
+width: 1100px; 
+height: 150px; 
+margin: 70px;
+
+} 
+
+h1 {
+
+    margin: 80px; 
+} 
+
+.Refugio13 {
+
+    font-size: 20px; 
+    width: 1100px;  
+    height: 500px; 
+    margin: 70px;
+} 
+
+h2 {
+    font-size: 30px; 
+    margin: 80px; 
+} 
+
+.Refugio15 {
+
+    font-size: 20px; 
+    width: 1100px; 
+    height: 300px; 
+    margin: 70px; 
+} 
+
+body {
+    background-color: #87CEFA; 
+} 
+
+.Refugio8 {
+
+    font-size: 20px; 
+    width: 1100px;  
+    height: 300px; 
+    margin: 70px;
+} 
+
+.Refugio12 { 
+
+    font-size: 20px; 
+    width: 1100px; 
+    height: 200px; 
+    margin: 70px ;
 }
