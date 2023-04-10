@@ -1,5 +1,5 @@
 body {
-    background-color: paleturquoise
+    background-color: #87CEFA;
 } 
 h1 {
     font-size: 50px; 
@@ -144,7 +144,7 @@ h3 {
 } 
 
 .menu {
-    width: 3000px; 
+    width: 4000px; 
     background:#1E90FF; 
     list-style: none; 
     margin: 0px;
